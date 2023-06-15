@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="stylesheet" href="./src/css/style.css" />
+
+    <title>Frontend Mentor | Advice generator app</title>
+  </head>
+  <body>
+    <main class="container">
+      <div class="card">
+        <h1>Advice #<span class="advice-id">000</span></h1>
+
+        <p class="advice-text">Loading advice...</p>
+
+        <div class="divider" aria-hidden="true"></div>
+
+        <button
+          class="btn-dice btnLoading"
+          type="button"
+          aria-label="Generate new Advice"
+          disabled
+        >
+          <img src="/icon-dice.svg" alt="" aria-hidden="true" />
+        </button>
+      </div>
+
+      <footer class="attribution">
+        Challenge by
+        <a
+          href="https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db"
+          target="_blank"
+          >Frontend Mentor </a
+        >. Coded by
+        <a href="https://github.com/aandreluis" target="_blank">André Luis</a>.
+      </footer>
+    </main>
+
+    <script type="module" src="./src/js/script.js"></script>
+  </body>
+</html>
