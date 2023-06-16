@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌎 Links
 
-- Solution: []()
-- Live Site: []()
+- Solution: [https://www.frontendmentor.io/solutions/advice-generator-app-html-css-js--AqaOYSPYG](https://www.frontendmentor.io/solutions/advice-generator-app-html-css-js--AqaOYSPYG)
+- Live Site: [https://advice-generator-aandreluis.vercel.app/](https://advice-generator-aandreluis.vercel.app/)
 
 ---
